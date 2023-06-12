@@ -1,0 +1,32 @@
+4
+Y
+Let's go YOGA
+1001
+15
+30
+18
+30
+
+Z
+Zumba fitness
+1003
+8
+0
+10
+0
+
+C
+Cardio everyday!
+1002
+12
+30
+14
+30
+
+C
+Go Cardio!!!
+1003
+15
+30
+18
+30
